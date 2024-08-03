@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/08/02 19:01:13.167,=C:\Users\dev\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/02 19:03:09.683,C:\git-repositories\delphi-rest-client\UClient.pas=C:\Users\dev\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/02 19:03:09.683,C:\git-repositories\delphi-rest-client\UClient.dfm=C:\Users\dev\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/08/02 19:03:14.402,C:\git-repositories\delphi-rest-client\Client.dproj=C:\Users\dev\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
